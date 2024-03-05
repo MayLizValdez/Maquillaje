@@ -90,4 +90,29 @@ $maquillajes = [
   "marca" => "sheglam",
   "precio" => 167
 ],
+   [
+  "maquillaje" => "lip oil",
+  "marca" => "dior",
+  "precio" => 880
+],
+   [
+  "maquillaje" => "fijador spray mini",
+  "marca" => "Mac",
+  "precio" => 560
+],
+   [
+  "maquillaje" => "Iluminador",
+  "marca" => "Mac",
+  "precio" => 230
+],
+   [
+  "maquillaje" => "Concealer",
+  "marca" => "rare beauty",
+  "precio" => 710
+],
+   [
+  "maquillaje" => "Liquid Highliter",
+  "marca" => "YSL",
+  "precio" => 780
+   
   
