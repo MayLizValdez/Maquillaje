@@ -12,7 +12,7 @@ $unMaquillaje = [
    [
   "maquillaje" => "Bronzer stick",
   "marca" => "rare beauty",
-  "precio" => 1099
+  "precio" => 1,099
 ],
    [
   "maquillaje" => "lip oil",
@@ -28,6 +28,37 @@ $unMaquillaje = [
   "maquillaje" => "labial mate ",
   "marca" => "rare beauty",
   "precio" => 510
+],
+  
+];
+$maquillajes = [
+  $unMaquillaje
+];
+
+  [
+  "maquillaje" => "Lapiz Labial",
+  "marca" => "YSL",
+  "precio" => 204
+],
+   [
+  "maquillaje" => "Sombras Duolumier",
+  "marca" => "YSL",
+  "precio" => 505
+],
+   [
+  "maquillaje" => "Base Matte Miel",
+  "marca" => "YSL",
+  "precio" => 544
+],
+   [
+  "maquillaje" => "Paleta Multiusos",
+  "marca" => "YSL",
+  "precio" => 1,028
+],
+   [
+  "maquillaje" => "Fluid Shadow",
+  "marca" => "Dior Addict",
+  "precio" => 322
 ],
   
 ];
