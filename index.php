@@ -1,7 +1,7 @@
 <?php
 # Maquillaje
 //1.Definir mis argumentos GET
-$maquillaje=$_GET("maquillaje");
+$maquillaje=$_GET("maquillajes");
 //2.Definir mi lista de elementos
 $unMaquillaje = [
   [
@@ -65,3 +65,29 @@ $maquillajes = [
 $maquillajes = [
   $unMaquillaje
 ];
+ [
+  "maquillaje" => "Rubor liquido",
+  "marca" => "rare beauty",
+  "precio" => 839
+],
+   [
+  "maquillaje" => "lifther gloss",
+  "marca" => "maybeline",
+  "precio" => 189
+],
+   [
+  "maquillaje" => "blush liquido float on",
+  "marca" => "sheglam",
+  "precio" => 171
+],
+   [
+  "maquillaje" => "base perfection fundation",
+  "marca" => "sephora",
+  "precio" => 824
+],
+   [
+  "maquillaje" => "labial hidratante jelly wow",
+  "marca" => "sheglam",
+  "precio" => 167
+],
+  
