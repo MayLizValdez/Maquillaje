@@ -5,11 +5,11 @@ $maquillaje=$_GET("maquillaje");
 //2.Definir mi lista de elementos
 $SEPHORA = {
   {
-  "maquillaje" => "terracotta blush"
+  "maquillaje" => "Terracotta Blush"
   "precio" => 990
   },
   {
-  "maquillaje" => "iluminator (iluminador liquido)"
+  "maquillaje" => "Highlihter (Liquid Highlihter)"
   "precios"=> 1,070
   },
 {
