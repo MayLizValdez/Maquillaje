@@ -6,7 +6,7 @@ $maquillaje=$_GET("maquillaje");
 $Gloss = [
   //Caracteristicas
   "Marca" => "Sheglam",
-  "Precio"=> 65,
+  "Precio"=> "$65",
   "Tono" => " Rojo (Frambuesa)",
   "Textura" => " Liquido",
   "Hecho en"=> "China",
@@ -52,5 +52,5 @@ $Gloss = [
   "contenido" => "dos cepillos"
   "dimenciones del producto" => "2x2x1.62cm",
   "gramos" => "20g",
-  "febricante" => "sheglam",
+  "fabricante" => "sheglam",
 
