@@ -67,7 +67,7 @@ $Gloss = [
   "cobertura" => "media a completa",
   
   if (isset($_GET ("maquillaje"])) {
-$columnasDeLaBusqueda = array_column($personas, 'maquillaje');
+$columnasDeLaBusqueda = array_column($Gloss, 'maquillaje');
 //echo json_encode($columnasDeLaBusqueda);
 $indexDeLaPersonaEncontrada = array_search($maquillaje, $columnasDeLaBusqueda);
 //echo json_encode($indexDeLaPersonaEncontrada);
