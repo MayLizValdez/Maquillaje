@@ -16,4 +16,16 @@ $Gloss = [
   "Reseña" => 4.8,
   "Descripcion" => Brillo de labios de larga duracion hidratante con fruta",
    ],
- 
+ $Mini Clutch Luxury Eyeshadow Palette = [
+ "Marca" => "YSL Beauty",
+ "Tono" => "100-Stora Dolls",
+ "Puntuacion Del Producto" => "4.7 estrellas",
+ "Precio" => "68 dlls",
+ "Descripcion Del Producto" => "A COUTURE EYESHADOW QUAD WITH SATIN",
+ "Contenido" => "4 Colores",
+ "Tipo De Producto" => "Paleta De Sombras",
+ "Ingredientes" => "Dimethicone, Synthetic Fluorphlogopite, Isostearyl Neopentanoate, etc..",
+ "Comentarios Del Producto" => "394 Comentarios",
+ "Funcion Del Producto" => "Alto Rendimiento De Pigmento En Una Formula Suave Enriquecida Con Aceite Para Uso Durante Todo El Dia",
+
+ ],
