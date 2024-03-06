@@ -42,5 +42,15 @@ $Gloss = [
  "Cobertura" => "Media"
  
   ],
-
+  $mascara de pestañas sheglam = [
+  "color" => "negro",
+  "marca" => "sheglam",
+  "forma del producto" => "gel",
+  "precio" => 229,
+  "tipos de cepillo" => "length, volumen",
+  "puntuacion de producto" => 4.5,
+  "contenido" => "dos cepillos"
+  "dimenciones del producto" => "2x2x1.62cm",
+  "gramos" => "20g",
+  "febricante" => "sheglam",
 
