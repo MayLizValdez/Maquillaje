@@ -53,4 +53,18 @@ $Gloss = [
   "dimenciones del producto" => "2x2x1.62cm",
   "gramos" => "20g",
   "fabricante" => "sheglam",
+],
+ $base de maquillaje sephora = [
+  "color" => "beige",
+  "marca" => "sephora",
+  "forma del producto" => "liquido",
+  "precio" => 930,
+  "cantidad" => "25ml",
+  "ngredientes" => "crema locion agua vitamina acido hialuronico protector solar",
+  "tono" => "ligth beige"
+  "estrellas" => 4.7,
+  "funcion" => "cubrir imperfecciones de la piel",
+  "cobertura" => "media a completa",
+],
+
 
