@@ -29,3 +29,18 @@ $Gloss = [
  "Funcion Del Producto" => "Alto Rendimiento De Pigmento En Una Formula Suave Enriquecida Con Aceite Para Uso Durante Todo El Dia",
 
  ],
+ $Rubor liquido Rare Beauty = [
+ "Marca" => "Rare Beauty",
+ "Acabado" => "Radiante",
+ "Formulacion" => "Liquida",
+ "Tono mas vendido" => "Soft pinch en el tono joy",
+ "Creadora de la marca" => "Selena gomez",
+ "Donde se fabrica rare beauty" => "Milan italia",
+ "Precio" => "$615",
+ "Cantidad de tonos" => "Vienen 11 tonos con dos acabados diferentes mate y luminoso",
+ "Descripcion del producto" => "Un blush ligero y de larga duracion",
+ "Cobertura" => "Media"
+ 
+  ],
+
+
