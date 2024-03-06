@@ -66,16 +66,16 @@ $Gloss = [
   "funcion" => "cubrir imperfecciones de la piel",
   "cobertura" => "media a completa",
   
-  if (isset($_GET ("nombre])) {
-$columnasDeLaBusqueda = array_column($personas, 'nombre');
+  if (isset($_GET ("maquillaje])) {
+$columnasDeLaBusqueda = array_column($personas, 'maquillaje');
 //echo json_encode($columnasDeLaBusqueda) :
-$indexDeLaPersonaEncontrada = array_search($nombre, $columnasDeLaBusqueda):
+$indexDeLaPersonaEncontrada = array_search($maquillaje, $columnasDeLaBusqueda):
 //echo json_encode($indexDeLaPersonaEncontrada) :
-$persona = $personas ($indexDeLaPersonaEncontrada]:
-echo json_encode ($persona);
+$maquillaje = $maquillaje ($indexDeLaPersonaEncontrada]:
+echo json_encode ($maquillaje);
 }else｛
 // Imprimir el valor de la Lista de elementos
-echo json_encode ($personas);
+echo json_encode ($maquillajes);
 }
 ],
 
